@@ -9,4 +9,4 @@ From CS:S to CS:GO
 
 From CS:GO to CS:S
 
-**[CS:GO -> CS:S ] ze_flower_pn* - Waiting for the last version
+**[CS:GO -> CS:S ] ze_flower_pn** - Waiting for the last version
