@@ -16,3 +16,11 @@ P.S: All ports made by me. All things here can be used by any ze server.
 
 [CS:GO -> CS:S ] ze_the_new_era_of_crazy_escape_s -> WIP
 
+# Contract with me: 
+[![Support][support-badge]][support-link] [![YouTube][youtube-badge]][youtube-link]
+
+[support-badge]: https://img.shields.io/badge/-Steam-blueviolet
+[support-link]: https://steamcommunity.com/id/PnSource/
+
+[youtube-badge]: https://img.shields.io/badge/-YouTube-red
+[youtube-link]: https://www.youtube.com/channel/UCvqeQqeHLD7qpW18rrlyFug
